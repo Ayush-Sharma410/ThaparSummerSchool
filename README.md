@@ -5,7 +5,7 @@ Welcome to the Web Scraping Examples repository! This repository contains code e
 ## Contents
 
 - [Beautiful Soup](beautiful_soup/): Code examples and tutorials using the Beautiful Soup library for web scraping.
-- [AutoScraper](autoscraper/): Code examples and tutorials using the AutoScraper library for web scraping.
+- [AutoScraper](Autoscraper/): Code examples and tutorials using the AutoScraper library for web scraping.
 - [GoogleSearchQuery](google_search_query/): Code examples and tutorials for scraping Google search results using Python.
 - [Octoparse](octoparse/):Tutorials for web scraping using Octoparse software.
 
