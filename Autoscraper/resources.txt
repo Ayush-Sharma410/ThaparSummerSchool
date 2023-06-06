@@ -1,0 +1,3 @@
+https://github.com/krishnaik06/Autoscrapper
+https://www.youtube.com/watch?v=zHjnc2ZwbGA
+https://pypi.org/project/autoscraper/
