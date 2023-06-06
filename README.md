@@ -1,6 +1,6 @@
 # Web Scraping
 
-Welcome to the Web Scraping Examples repository! This repository contains code examples, tutorials, and resources for learning web scraping using Python. Whether you're new to web scraping or looking to enhance your skills, this repository aims to provide you with practical examples and guidance.
+This repository contains code examples, tutorials, and resources for learning web scraping using Python.
 
 ## Contents
 
