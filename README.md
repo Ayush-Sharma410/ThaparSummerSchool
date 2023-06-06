@@ -9,6 +9,8 @@ This repository contains code examples, tutorials, and resources for learning we
 - [GoogleSearchQuery](googlesearch.ipynb): Code examples and tutorials for scraping Google search results using Python.
 - [Requests_html](Requests_HTML.ipynb): Code examples and tutorials for scraping using requsts_html library in python.
 - [Hidden APIs](HiddenAPIs.ipynb): Code examples and tutorials for scraping using Hidden APIs.
+- [Project1](Project1.ipynb): Extract the urls of the medicines from the top 4 pharmaceutical websites in India on google search.
+- [Project2](Project2.ipynb):Extract the information using AutoScraper includong the images,names etc.
 - [Octoparse](octoparse):Tutorials for web scraping using Octoparse software.
 
 ## Getting Started
