@@ -7,6 +7,7 @@ This repository contains code examples, tutorials, and resources for learning we
 - [Beautiful Soup](BeautifulSoup.ipynb): Code examples and tutorials using the Beautiful Soup library for web scraping.
 - [AutoScraper](AutoScraper.ipynb): Code examples and tutorials using the AutoScraper library for web scraping.
 - [GoogleSearchQuery](google_search_query/): Code examples and tutorials for scraping Google search results using Python.
+- [Requests_html](): Code examples and tutorials for scraping using requsts_html library in pyrhon.
 - [Octoparse](octoparse):Tutorials for web scraping using Octoparse software.
 
 ## Getting Started
