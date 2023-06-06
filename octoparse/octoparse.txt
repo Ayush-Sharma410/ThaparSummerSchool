@@ -1,1 +1,11 @@
+Octoparse Official Website: The official Octoparse website provides comprehensive documentation, tutorials, and guides to help you get started with the tool. Visit their website at https://www.octoparse.com/ and navigate to the "Learning Center" section.
 
+Octoparse YouTube Channel: The Octoparse YouTube channel features a variety of video tutorials and guides to help you learn how to use the tool effectively. You can find the channel at https://www.youtube.com/c/OctoparseOfficial.
+
+Octoparse Community: Octoparse has an active community where users can ask questions, share tips, and discuss their experiences with the tool. You can join the Octoparse community at https://community.octoparse.com/.
+
+Octoparse Blog: The Octoparse blog provides valuable insights, tips, and case studies related to web scraping and using Octoparse. You can access their blog at https://www.octoparse.com/blog.
+
+Octoparse Academy: Octoparse offers an Academy section on their website, which provides in-depth courses on web scraping using Octoparse. You can find various courses tailored for different skill levels and specific use cases. Visit the Octoparse Academy at https://academy.octoparse.com/.
+
+Octoparse Documentation: The Octoparse documentation provides detailed explanations of the tool's features, functionalities, and advanced techniques. You can access the documentation at https://www.octoparse.com/docs/.
