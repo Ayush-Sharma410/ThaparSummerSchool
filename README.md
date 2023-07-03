@@ -6,7 +6,7 @@ This repository contains code examples, tutorials, and resources for learning we
 
 - [Beautiful Soup](BeautifulSoup): Code examples and tutorials using the Beautiful Soup library for web scraping.
 - [AutoScraper](AutoScraper): Code examples and tutorials using the AutoScraper library for web scraping.
-- [GoogleSearchQuery](googlesearch): Code examples and tutorials for scraping Google search results using Python.
+- [GoogleSearchQuery](GoogleSearch): Code examples and tutorials for scraping Google search results using Python.
 - [Requests_html](BeautifulSoup): Code examples and tutorials for scraping using requsts_html library in python.
 - [selenium](selenium): Code examples and tutorials for scraping using selenium library in python.
 - [puppeteer](puppeteer): Code examples and tutorials for scraping using puppeteer library in javascript.
